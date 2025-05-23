@@ -141,7 +141,7 @@ python 1_extract_entropy.py \
 
 This pipeline underpins the manuscript:
 
-> “Voxel-Wise Tumor Entropy Mapping and IMED-Clustering for Prognostic Stratification in Colorectal Liver Metastases”
+> “CT-Based Entropy Clustering Enhances Prognostic Stratification in Colorectal Liver Metastases”
 
 Please cite our study when using or adapting this code.
 
