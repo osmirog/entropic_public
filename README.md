@@ -21,21 +21,13 @@ By embedding tumor heterogeneity into an integrated prognostic framework, this w
 ```
 .
 ├── 1_extract_entropy.py
-
 ├── 2_clustering.ipynb
-
 ├── 3_statistical_analysis.ipynb
-
 ├── example_settings/
-
 │   └── Params.yaml
-
 ├── data/
-
 │   ├── raw_CT/ ← DICOM series & ROI masks
-
 │   └── DB_AIRCl.csv ← Patient‐ID ⇆ name mapping
-
 └── README.md
 ```
 
