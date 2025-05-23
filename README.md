@@ -3,6 +3,8 @@
 
 **NOTE: THIS DOCUMENT IS AI-GENERATED BASED ON THE CODE REPOSITORY AND RESEARCH PAPER**
 
+---
+
 ## Entropic: Voxel-Wise Tumor Entropy Mapping & Prognostic Clustering for CRLM
 
 This repository contains the code and notebooks implementing a fully automated pipeline to:
