@@ -1,4 +1,4 @@
-```markdown
+
 # Entropic Phenotyping of Colorectal Liver Metastases
 
 **NOTE: THIS DOCUMENT IS AI-GENERATED BASED ON THE CODE REPOSITORY AND RESEARCH PAPER**
@@ -13,7 +13,6 @@ This repository contains the code and notebooks implementing a fully automated p
 
 By embedding tumor heterogeneity into an integrated prognostic framework, this workflow lays the groundwork for CT-based “virtual biopsies” and personalized risk stratification in precision oncology.
 
----
 
 ## 📦 Repository Structure
 
